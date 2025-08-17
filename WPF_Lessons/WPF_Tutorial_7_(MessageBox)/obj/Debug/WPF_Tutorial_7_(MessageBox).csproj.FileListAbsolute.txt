@@ -1,0 +1,15 @@
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\bin\Debug\WPF_Tutorial_7_(MessageBox).exe.config
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\bin\Debug\WPF_Tutorial_7_(MessageBox).exe
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\bin\Debug\WPF_Tutorial_7_(MessageBox).pdb
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7_(MessageBox).csproj.AssemblyReference.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\MainWindow.g.cs
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\App.g.cs
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7_(MessageBox)_MarkupCompile.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7_(MessageBox)_MarkupCompile.lref
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\MainWindow.baml
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7_(MessageBox).g.resources
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7__MessageBox_.Properties.Resources.resources
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7_(MessageBox).csproj.GenerateResource.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7_(MessageBox).csproj.CoreCompileInputs.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7_(MessageBox).exe
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_7_(MessageBox)\obj\Debug\WPF_Tutorial_7_(MessageBox).pdb
