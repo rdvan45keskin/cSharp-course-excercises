@@ -1,0 +1,7 @@
+D:\BTK\C#\AsciiSquare\AsciiSquare\obj\Debug\AsciiSquare.csproj.AssemblyReference.cache
+D:\BTK\C#\AsciiSquare\AsciiSquare\obj\Debug\AsciiSquare.csproj.CoreCompileInputs.cache
+D:\BTK\C#\AsciiSquare\AsciiSquare\bin\Debug\AsciiSquare.exe.config
+D:\BTK\C#\AsciiSquare\AsciiSquare\bin\Debug\AsciiSquare.exe
+D:\BTK\C#\AsciiSquare\AsciiSquare\bin\Debug\AsciiSquare.pdb
+D:\BTK\C#\AsciiSquare\AsciiSquare\obj\Debug\AsciiSquare.exe
+D:\BTK\C#\AsciiSquare\AsciiSquare\obj\Debug\AsciiSquare.pdb
