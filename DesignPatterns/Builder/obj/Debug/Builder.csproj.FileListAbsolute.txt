@@ -1,0 +1,7 @@
+D:\BTK\C#\Singleton\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+D:\BTK\C#\Singleton\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\BTK\C#\Singleton\Builder\bin\Debug\Builder.exe.config
+D:\BTK\C#\Singleton\Builder\bin\Debug\Builder.exe
+D:\BTK\C#\Singleton\Builder\bin\Debug\Builder.pdb
+D:\BTK\C#\Singleton\Builder\obj\Debug\Builder.exe
+D:\BTK\C#\Singleton\Builder\obj\Debug\Builder.pdb

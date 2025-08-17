@@ -1,0 +1,7 @@
+D:\BTK\C#\DesignPatterns\Composite\bin\Debug\Composite.exe.config
+D:\BTK\C#\DesignPatterns\Composite\bin\Debug\Composite.exe
+D:\BTK\C#\DesignPatterns\Composite\bin\Debug\Composite.pdb
+D:\BTK\C#\DesignPatterns\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+D:\BTK\C#\DesignPatterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+D:\BTK\C#\DesignPatterns\Composite\obj\Debug\Composite.exe
+D:\BTK\C#\DesignPatterns\Composite\obj\Debug\Composite.pdb

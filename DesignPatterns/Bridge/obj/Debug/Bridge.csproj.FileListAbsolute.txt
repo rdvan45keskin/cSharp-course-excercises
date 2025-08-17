@@ -1,0 +1,7 @@
+D:\BTK\C#\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+D:\BTK\C#\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+D:\BTK\C#\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+D:\BTK\C#\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+D:\BTK\C#\DesignPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\BTK\C#\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+D:\BTK\C#\DesignPatterns\Bridge\obj\Debug\Bridge.pdb

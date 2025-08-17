@@ -1,0 +1,7 @@
+D:\BTK\C#\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\BTK\C#\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\BTK\C#\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+D:\BTK\C#\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+D:\BTK\C#\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+D:\BTK\C#\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+D:\BTK\C#\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
