@@ -1,0 +1,7 @@
+D:\BTK\C#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+D:\BTK\C#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+D:\BTK\C#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+D:\BTK\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.AssemblyReference.cache
+D:\BTK\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+D:\BTK\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+D:\BTK\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb

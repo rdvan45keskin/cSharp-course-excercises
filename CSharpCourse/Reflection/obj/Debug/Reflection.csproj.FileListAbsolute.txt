@@ -1,0 +1,7 @@
+D:\BTK\C#\CSharpCourse\Reflection\bin\Debug\Reflection.exe.config
+D:\BTK\C#\CSharpCourse\Reflection\bin\Debug\Reflection.exe
+D:\BTK\C#\CSharpCourse\Reflection\bin\Debug\Reflection.pdb
+D:\BTK\C#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+D:\BTK\C#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\BTK\C#\CSharpCourse\Reflection\obj\Debug\Reflection.exe
+D:\BTK\C#\CSharpCourse\Reflection\obj\Debug\Reflection.pdb
