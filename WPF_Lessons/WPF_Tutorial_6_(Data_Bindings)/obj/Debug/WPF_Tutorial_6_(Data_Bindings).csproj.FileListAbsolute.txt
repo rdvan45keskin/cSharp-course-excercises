@@ -1,0 +1,15 @@
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\bin\Debug\WPF_Tutorial_6_(Data_Bindings).exe.config
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\bin\Debug\WPF_Tutorial_6_(Data_Bindings).exe
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\bin\Debug\WPF_Tutorial_6_(Data_Bindings).pdb
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6_(Data_Bindings).csproj.AssemblyReference.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\MainWindow.g.cs
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\App.g.cs
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6_(Data_Bindings)_MarkupCompile.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6_(Data_Bindings)_MarkupCompile.lref
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\MainWindow.baml
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6_(Data_Bindings).g.resources
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6__Data_Bindings_.Properties.Resources.resources
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6_(Data_Bindings).csproj.GenerateResource.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6_(Data_Bindings).csproj.CoreCompileInputs.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6_(Data_Bindings).exe
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_6_(Data_Bindings)\obj\Debug\WPF_Tutorial_6_(Data_Bindings).pdb
