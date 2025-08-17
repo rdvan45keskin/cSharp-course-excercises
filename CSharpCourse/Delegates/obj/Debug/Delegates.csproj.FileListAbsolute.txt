@@ -1,0 +1,7 @@
+D:\BTK\C#\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+D:\BTK\C#\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+D:\BTK\C#\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+D:\BTK\C#\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+D:\BTK\C#\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\BTK\C#\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+D:\BTK\C#\CSharpCourse\Delegates\obj\Debug\Delegates.pdb
