@@ -1,0 +1,7 @@
+D:\BTK\C#\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+D:\BTK\C#\DesignPatterns\Observer\bin\Debug\Observer.exe
+D:\BTK\C#\DesignPatterns\Observer\bin\Debug\Observer.pdb
+D:\BTK\C#\DesignPatterns\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+D:\BTK\C#\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\BTK\C#\DesignPatterns\Observer\obj\Debug\Observer.exe
+D:\BTK\C#\DesignPatterns\Observer\obj\Debug\Observer.pdb

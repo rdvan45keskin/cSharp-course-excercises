@@ -1,0 +1,7 @@
+D:\BTK\C#\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\BTK\C#\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\BTK\C#\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\BTK\C#\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\BTK\C#\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\BTK\C#\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\BTK\C#\Singleton\Singleton\obj\Debug\Singleton.pdb

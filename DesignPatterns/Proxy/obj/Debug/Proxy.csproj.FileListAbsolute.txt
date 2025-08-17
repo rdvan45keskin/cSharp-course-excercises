@@ -1,0 +1,7 @@
+D:\BTK\C#\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+D:\BTK\C#\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+D:\BTK\C#\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+D:\BTK\C#\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+D:\BTK\C#\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\BTK\C#\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+D:\BTK\C#\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,7 @@
+D:\BTK\C#\DesignPatterns\State\bin\Debug\State.exe.config
+D:\BTK\C#\DesignPatterns\State\bin\Debug\State.exe
+D:\BTK\C#\DesignPatterns\State\bin\Debug\State.pdb
+D:\BTK\C#\DesignPatterns\State\obj\Debug\State.csproj.AssemblyReference.cache
+D:\BTK\C#\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+D:\BTK\C#\DesignPatterns\State\obj\Debug\State.exe
+D:\BTK\C#\DesignPatterns\State\obj\Debug\State.pdb
