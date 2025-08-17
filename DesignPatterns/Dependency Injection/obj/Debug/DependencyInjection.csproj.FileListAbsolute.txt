@@ -1,0 +1,10 @@
+D:\BTK\C#\DesignPatterns\Dependency Injection\bin\Debug\Dependency Injection.exe.config
+D:\BTK\C#\DesignPatterns\Dependency Injection\bin\Debug\Dependency Injection.exe
+D:\BTK\C#\DesignPatterns\Dependency Injection\bin\Debug\Dependency Injection.pdb
+D:\BTK\C#\DesignPatterns\Dependency Injection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+D:\BTK\C#\DesignPatterns\Dependency Injection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\BTK\C#\DesignPatterns\Dependency Injection\obj\Debug\Dependency Injection.exe
+D:\BTK\C#\DesignPatterns\Dependency Injection\obj\Debug\Dependency Injection.pdb
+D:\BTK\C#\DesignPatterns\Dependency Injection\bin\Debug\Ninject.dll
+D:\BTK\C#\DesignPatterns\Dependency Injection\bin\Debug\Ninject.xml
+D:\BTK\C#\DesignPatterns\Dependency Injection\obj\Debug\Dependen.428E3D85.Up2Date
