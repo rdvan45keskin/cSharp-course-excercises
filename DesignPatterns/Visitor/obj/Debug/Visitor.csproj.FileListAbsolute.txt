@@ -1,0 +1,7 @@
+D:\BTK\C#\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+D:\BTK\C#\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+D:\BTK\C#\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+D:\BTK\C#\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+D:\BTK\C#\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+D:\BTK\C#\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+D:\BTK\C#\DesignPatterns\Visitor\obj\Debug\Visitor.pdb
