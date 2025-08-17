@@ -1,0 +1,7 @@
+D:\BTK\C#\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+D:\BTK\C#\CSharpCourse\Generics\bin\Debug\Generics.exe
+D:\BTK\C#\CSharpCourse\Generics\bin\Debug\Generics.pdb
+D:\BTK\C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\BTK\C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\BTK\C#\CSharpCourse\Generics\obj\Debug\Generics.exe
+D:\BTK\C#\CSharpCourse\Generics\obj\Debug\Generics.pdb
