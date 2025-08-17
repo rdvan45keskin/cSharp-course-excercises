@@ -1,0 +1,139 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial", "WPF_Tutorial\WPF_Tutorial.csproj", "{9B367A11-DF7A-4D13-B6E8-D0D84908A7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_2_(Code_Behind)", "WPF_Tutorial_2_(Code_Behind)\WPF_Tutorial_2_(Code_Behind).csproj", "{A14954E1-08F6-44C0-B004-3C5F6B2BC983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_3_(Grid_Basics)", "WPF_Tutorial_3_(Grid_Basics)\WPF_Tutorial_3_(Grid_Basics).csproj", "{F53FC80F-FA47-4750-9C7B-6F2DCAC03F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_4_(Custom_Controls)", "WPF_Tutorial_4_(Custom_Controls)\WPF_Tutorial_4_(Custom_Controls).csproj", "{218A148D-A270-4438-A08D-40D2D31B2981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_5_(Custom_TextBox_Controls)", "WPF_Tutorial_5_(Custom_TextBox_Controls)\WPF_Tutorial_5_(Custom_TextBox_Controls).csproj", "{A1B78164-300D-4772-A3AF-6DB3AB201FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_6_(Data_Bindings)", "WPF_Tutorial_6_(Data_Bindings)\WPF_Tutorial_6_(Data_Bindings).csproj", "{1D47230C-7A1C-4722-A762-3DECB4F69210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_7_(MessageBox)", "WPF_Tutorial_7_(MessageBox)\WPF_Tutorial_7_(MessageBox).csproj", "{4228774C-0BEE-4B96-8617-DAE70E2F061D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_8_(Open_File_Dialog)", "WPF_Tutorial_8_(Open_File_Dialog)\WPF_Tutorial_8_(Open_File_Dialog).csproj", "{81578558-729A-4A39-8E85-3C1A9E8218D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_9_(Folder_Browsesr_Dialog)", "WPF_Tutorial_9_(Folder_Browsesr_Dialog)\WPF_Tutorial_9_(Folder_Browsesr_Dialog).csproj", "{169CF5F8-407A-42BF-BCDC-C3CF6D8138C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_10_(List_View)", "WPF_Tutorial_10_(List_View)\WPF_Tutorial_10_(List_View).csproj", "{EF2FA1F6-50DF-4F59-8549-BDC145ABC8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_11_(List_View_2)", "WPF_Tutorial_11_(List_View_2)\WPF_Tutorial_11_(List_View_2).csproj", "{E7E94D90-95CE-4FB8-9961-8E0F29E6CA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_12_(Stack_Panel)", "WPF_Tutorial_12_(Stack_Panel)\WPF_Tutorial_12_(Stack_Panel).csproj", "{068D32AC-5420-4B95-8D6A-D5E00AD25CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_13_(Grid_Splitter)", "WPF_Tutorial_13_(Grid_Splitter)\WPF_Tutorial_13_(Grid_Splitter).csproj", "{2D97BCD0-7FC6-4C26-ABBD-AA6B28D1D0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_14_(Expander)", "WPF_Tutorial_14_(Expander)\WPF_Tutorial_14_(Expander).csproj", "{1F858921-E90B-42B0-B927-F2423D07D493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_15_(Scroll_Viewer)", "WPF_Tutorial_15_(Scroll_Viewer)\WPF_Tutorial_15_(Scroll_Viewer).csproj", "{44BC60F0-562B-4545-86EA-04DBFE25A1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_16_(Custom_Windows)", "WPF_Tutorial_16_(Custom_Windows)\WPF_Tutorial_16_(Custom_Windows).csproj", "{F4034069-1E7D-4506-86BD-EAE80E1AF450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_17_(Opening_Windows)", "WPF_Tutorial_17_(Opening_Windows)\WPF_Tutorial_17_(Opening_Windows).csproj", "{259AF0C2-C3C0-460C-A9F6-717BBDD5463E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_18_(Reusable_Styles)", "WPF_Tutorial_18_(Reusable_Styles)\WPF_Tutorial_18_(Reusable_Styles).csproj", "{044B9D92-76D2-49C4-965B-1E3307566DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_19_(Style_Templates)", "WPF_Tutorial_19_(Style_Templates)\WPF_Tutorial_19_(Style_Templates).csproj", "{15AB476D-EA08-4D4C-9901-A80291DBD1C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Tutorial_20_(MVVM_ViewModel)", "WPF_Tutorial_20_(MVVM_ViewModel)\WPF_Tutorial_20_(MVVM_ViewModel).csproj", "{D1FCAD8A-9DC5-4D96-BA5D-E47CA5D02F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B367A11-DF7A-4D13-B6E8-D0D84908A7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B367A11-DF7A-4D13-B6E8-D0D84908A7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B367A11-DF7A-4D13-B6E8-D0D84908A7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B367A11-DF7A-4D13-B6E8-D0D84908A7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14954E1-08F6-44C0-B004-3C5F6B2BC983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14954E1-08F6-44C0-B004-3C5F6B2BC983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14954E1-08F6-44C0-B004-3C5F6B2BC983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14954E1-08F6-44C0-B004-3C5F6B2BC983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53FC80F-FA47-4750-9C7B-6F2DCAC03F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53FC80F-FA47-4750-9C7B-6F2DCAC03F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53FC80F-FA47-4750-9C7B-6F2DCAC03F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53FC80F-FA47-4750-9C7B-6F2DCAC03F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218A148D-A270-4438-A08D-40D2D31B2981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218A148D-A270-4438-A08D-40D2D31B2981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218A148D-A270-4438-A08D-40D2D31B2981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218A148D-A270-4438-A08D-40D2D31B2981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B78164-300D-4772-A3AF-6DB3AB201FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B78164-300D-4772-A3AF-6DB3AB201FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B78164-300D-4772-A3AF-6DB3AB201FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B78164-300D-4772-A3AF-6DB3AB201FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D47230C-7A1C-4722-A762-3DECB4F69210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D47230C-7A1C-4722-A762-3DECB4F69210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D47230C-7A1C-4722-A762-3DECB4F69210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D47230C-7A1C-4722-A762-3DECB4F69210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4228774C-0BEE-4B96-8617-DAE70E2F061D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4228774C-0BEE-4B96-8617-DAE70E2F061D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4228774C-0BEE-4B96-8617-DAE70E2F061D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4228774C-0BEE-4B96-8617-DAE70E2F061D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81578558-729A-4A39-8E85-3C1A9E8218D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81578558-729A-4A39-8E85-3C1A9E8218D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81578558-729A-4A39-8E85-3C1A9E8218D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81578558-729A-4A39-8E85-3C1A9E8218D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169CF5F8-407A-42BF-BCDC-C3CF6D8138C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169CF5F8-407A-42BF-BCDC-C3CF6D8138C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169CF5F8-407A-42BF-BCDC-C3CF6D8138C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169CF5F8-407A-42BF-BCDC-C3CF6D8138C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2FA1F6-50DF-4F59-8549-BDC145ABC8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2FA1F6-50DF-4F59-8549-BDC145ABC8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2FA1F6-50DF-4F59-8549-BDC145ABC8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2FA1F6-50DF-4F59-8549-BDC145ABC8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E94D90-95CE-4FB8-9961-8E0F29E6CA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E94D90-95CE-4FB8-9961-8E0F29E6CA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E94D90-95CE-4FB8-9961-8E0F29E6CA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E94D90-95CE-4FB8-9961-8E0F29E6CA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068D32AC-5420-4B95-8D6A-D5E00AD25CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068D32AC-5420-4B95-8D6A-D5E00AD25CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068D32AC-5420-4B95-8D6A-D5E00AD25CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068D32AC-5420-4B95-8D6A-D5E00AD25CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D97BCD0-7FC6-4C26-ABBD-AA6B28D1D0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D97BCD0-7FC6-4C26-ABBD-AA6B28D1D0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D97BCD0-7FC6-4C26-ABBD-AA6B28D1D0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D97BCD0-7FC6-4C26-ABBD-AA6B28D1D0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F858921-E90B-42B0-B927-F2423D07D493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F858921-E90B-42B0-B927-F2423D07D493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F858921-E90B-42B0-B927-F2423D07D493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F858921-E90B-42B0-B927-F2423D07D493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BC60F0-562B-4545-86EA-04DBFE25A1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BC60F0-562B-4545-86EA-04DBFE25A1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BC60F0-562B-4545-86EA-04DBFE25A1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BC60F0-562B-4545-86EA-04DBFE25A1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4034069-1E7D-4506-86BD-EAE80E1AF450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4034069-1E7D-4506-86BD-EAE80E1AF450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4034069-1E7D-4506-86BD-EAE80E1AF450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4034069-1E7D-4506-86BD-EAE80E1AF450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259AF0C2-C3C0-460C-A9F6-717BBDD5463E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259AF0C2-C3C0-460C-A9F6-717BBDD5463E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259AF0C2-C3C0-460C-A9F6-717BBDD5463E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259AF0C2-C3C0-460C-A9F6-717BBDD5463E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044B9D92-76D2-49C4-965B-1E3307566DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044B9D92-76D2-49C4-965B-1E3307566DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044B9D92-76D2-49C4-965B-1E3307566DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044B9D92-76D2-49C4-965B-1E3307566DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AB476D-EA08-4D4C-9901-A80291DBD1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AB476D-EA08-4D4C-9901-A80291DBD1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AB476D-EA08-4D4C-9901-A80291DBD1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AB476D-EA08-4D4C-9901-A80291DBD1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FCAD8A-9DC5-4D96-BA5D-E47CA5D02F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FCAD8A-9DC5-4D96-BA5D-E47CA5D02F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FCAD8A-9DC5-4D96-BA5D-E47CA5D02F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FCAD8A-9DC5-4D96-BA5D-E47CA5D02F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD109654-152F-4F81-A31B-A7DEBD09972A}
+	EndGlobalSection
+EndGlobal
