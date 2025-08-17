@@ -1,0 +1,15 @@
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\bin\Debug\WPF_Tutorial_2_(Code_Behind).exe.config
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\bin\Debug\WPF_Tutorial_2_(Code_Behind).exe
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\bin\Debug\WPF_Tutorial_2_(Code_Behind).pdb
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2_(Code_Behind).csproj.AssemblyReference.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\MainWindow.g.cs
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\App.g.cs
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2_(Code_Behind)_MarkupCompile.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2_(Code_Behind)_MarkupCompile.lref
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\MainWindow.baml
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2_(Code_Behind).g.resources
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2__Code_Behind_.Properties.Resources.resources
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2_(Code_Behind).csproj.GenerateResource.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2_(Code_Behind).csproj.CoreCompileInputs.cache
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2_(Code_Behind).exe
+D:\BTK\C#\WPF_Lessons\WPF_Tutorial_2_(Code_Behind)\obj\Debug\WPF_Tutorial_2_(Code_Behind).pdb
