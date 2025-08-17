@@ -1,0 +1,7 @@
+D:\BTK\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+D:\BTK\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe
+D:\BTK\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.pdb
+D:\BTK\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+D:\BTK\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\BTK\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.exe
+D:\BTK\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.pdb
