@@ -1,0 +1,15 @@
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\bin\Debug\EntityFrameworkDemo(Database).exe.config
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\bin\Debug\EntityFrameworkDemo(Database).exe
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\bin\Debug\EntityFrameworkDemo(Database).pdb
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\bin\Debug\EntityFramework.dll
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\bin\Debug\EntityFramework.xml
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\obj\Debug\EntityFrameworkDemo(Database).csproj.AssemblyReference.cache
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\obj\Debug\EntityFrameworkDemo_Database_.Form1.resources
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\obj\Debug\EntityFrameworkDemo_Database_.Properties.Resources.resources
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\obj\Debug\EntityFrameworkDemo(Database).csproj.GenerateResource.cache
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\obj\Debug\EntityFrameworkDemo(Database).csproj.CoreCompileInputs.cache
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\obj\Debug\EntityFr.3D302E29.Up2Date
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\obj\Debug\EntityFrameworkDemo(Database).exe
+D:\BTK\C#\CSharpCourse\EntityFrameworkDemo(Database)\obj\Debug\EntityFrameworkDemo(Database).pdb
