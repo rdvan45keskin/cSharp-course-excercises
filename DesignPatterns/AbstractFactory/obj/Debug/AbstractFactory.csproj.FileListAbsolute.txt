@@ -1,0 +1,7 @@
+D:\BTK\C#\Singleton\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\BTK\C#\Singleton\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\BTK\C#\Singleton\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\BTK\C#\Singleton\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+D:\BTK\C#\Singleton\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\BTK\C#\Singleton\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\BTK\C#\Singleton\AbstractFactory\obj\Debug\AbstractFactory.pdb
