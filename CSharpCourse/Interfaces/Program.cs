@@ -52,8 +52,8 @@ namespace Interfaces
             Student student = new Student
             {
                 Id = 1,
-                FirstName = "Velet",
-                LastName = "Selo",
+                FirstName = "Engin",
+                LastName = "Demiroğ",
                 Department = "C# dev."
             };
             personManager.Add(student);
@@ -91,4 +91,5 @@ namespace Interfaces
             }
         }
     }
+
 }
