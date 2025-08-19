@@ -10,7 +10,7 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            string[] students = new string[2] { "Engin", "Selo" };
+            string[] students = new string[2] { "Engin", "Deniz" };
             //students[0] = "engin";
             //students[1] = "selo";
 
@@ -41,3 +41,4 @@ namespace Arrays
         }
     }
 }
+
