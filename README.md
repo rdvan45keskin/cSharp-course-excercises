@@ -7,11 +7,11 @@ Amacım, hem temel hem de ileri seviye C# konularını uygulamalı şekilde öğ
 
 🎯 Amaç
 
-C# dilinin temel ve ileri seviye özelliklerini öğrenmek
-Nesne yönelimli programlamayı (OOP) uygulamak
-Entity Framework ile veritabanı işlemlerini öğrenmek
-Tasarım desenlerini gerçek örneklerle görmek
-WPF ile masaüstü uygulama geliştirmeye giriş yapmak
+- C# dilinin temel ve ileri seviye özelliklerini öğrenmek
+- Nesne yönelimli programlamayı (OOP) uygulamak
+- Entity Framework ile veritabanı işlemlerini öğrenmek
+- Tasarım desenlerini gerçek örneklerle görmek
+- WPF ile masaüstü uygulama geliştirmeye giriş yapmak
 
 ---
 
